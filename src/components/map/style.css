@@ -1,0 +1,13 @@
+.leaflet-container {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.leaflet-popup {
+  padding: 50px;
+  font-size: 30px;
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 0;
+}
